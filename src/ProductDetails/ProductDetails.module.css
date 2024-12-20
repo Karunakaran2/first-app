@@ -1,0 +1,42 @@
+.ProductData {
+    width: 50%;
+  }
+  .ProductTitle {
+    font-size: 40px;
+  }
+  .ProductDescription {
+    font-size: 20px;
+  }
+  .ProductImage {
+    width: 100%;
+    max-width: 80px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .SectionHeading {
+    font-size: 18px;
+  }
+  .SelectedProductImage {
+    border: 2px solid #1881de;
+  }
+  .FeatureItem {
+    background-color: #eee;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 150px;
+  }
+  .SelectedFeatureItem {
+    background-color: #01458e;
+    color: #fff;
+  }
+  .PrimaryButton {
+    padding: 10px;
+    max-width: 150px;
+    width: 100%;
+    cursor: pointer;
+    color: #fff;
+    border-radius: 10px;
+  }

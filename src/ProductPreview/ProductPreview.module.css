@@ -1,0 +1,35 @@
+.ProductPreview {
+    width: 50%;
+    position: relative;
+}
+
+.ProductPreview>img {
+    width: 100%;
+    padding: 50px;
+}
+
+.TimeSection {
+    position: absolute;
+    z-index: 9;
+    right: 43%;
+    top: 46%;
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+
+.HeartSection {
+    position: absolute;
+    z-index: 9;
+    right: 42%;
+    top: 46%;
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+
+.HeartRateTitle {
+    font-size: 20px;
+}
